@@ -7,7 +7,6 @@ package pacotelogico;
 
 import java.math.*;
 
-
 public class Operadores_logicos {
 
 	public static void main(String[] args) {
